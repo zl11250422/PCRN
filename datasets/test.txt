@@ -1,0 +1,10 @@
+Set5:
+psnr: 32.3763 ssim: 0.8976
+Set14:
+psnr: 28.7451 ssim: 0.7850
+BSD100：
+psnr: 27.6735 ssim: 0.7385
+Urban100:
+psnr: 26.3598 ssim: 0.7934
+Manga109:
+psnr: 30.9482 ssim: 0.9131
