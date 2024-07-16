@@ -1,5 +1,3 @@
-UPLOADING.............................................
-
 
 ```
 
@@ -24,3 +22,8 @@ The testing results will be saved in the ./results folder.
 ```
 CUDA_VISIBLE_DEVICES=0 python train.py -opt options/train/train_PCRN_x4.yml
 ```
+
+## Training dataset
+https://data.vision.ee.ethz.ch/cvl/DIV2K/
+## Test dataset
+./datasets
